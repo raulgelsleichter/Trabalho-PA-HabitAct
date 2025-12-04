@@ -25,10 +25,10 @@
 
 .logo {
 	display: block;
-	width: 1.8rem;
-	height: 1.8rem;
+	width: 4.6rem;
+	height: 3.9rem;
 	background: url(../../public/icons/logo192-alpha.png);
-	background-size: contain;
+	background-size: cover;
 }
 
 .header h1 {

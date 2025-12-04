@@ -18,18 +18,18 @@
 		{
 			"src": "icons/logo512-alpha.png",
 			"type": "image/png",
-			"sizes": "512x512"
+			"sizes": "512x288"
 		},
 		{
 			"src": "icons/logo192-maskable.png",
 			"type": "image/png",
-			"sizes": "192x192",
+			"sizes": "192x108",
 			"purpose": "maskable"
 		},
 		{
 			"src": "icons/logo512-maskable.png",
 			"type": "image/png",
-			"sizes": "512x512",
+			"sizes": "512x288",
 			"purpose": "maskable"
 		}
 	],
